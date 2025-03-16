@@ -1,7 +1,7 @@
 # Titanic Death Predictor
 
 ## Overview
-The Titanic Death Predictor is a machine learning project that aims to predict whether a passenger on the Titanic survived or perished. Using historical data from the Titanic disaster, the model uses various features such as passenger age, gender, class, and other factors to make predictions about survival. This project demonstrates the application of machine learning algorithms like Random Forest and Logistic Regression.
+The Titanic Death Predictor is a machine learning project that aims to predict whether a passenger on the Titanic survived or perished. Using historical data from the Titanic disaster, the model uses various features such as passenger age, gender, class, and other factors to make predictions about survival.
 
 ## Dataset
 The dataset used in this project is from the **Kaggle Titanic dataset**, which contains data about Titanic passengers, including whether they survived or not. The features in the dataset include:
